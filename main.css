@@ -1,0 +1,59 @@
+.header{
+    background-color: aqua;
+    color: white;
+    width: 750px;
+    text-align: center; 
+}
+.aside{
+    background-color: aquamarine;
+    color: white;
+    width: 250px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.article{
+    background-color: palevioletred;
+    color: white;
+    width: 490px;
+    height: 400px;
+    margin-left: 260px;
+    margin-top: -400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.image1{
+    background-color: gray;
+    width: 150px;
+    height: 130px;
+    margin-top: 200px;
+    margin-left: -60px;
+}
+.image2{
+    background-color: gray;
+    width: 150px;
+    height: 130px;
+    margin-top: 200px;
+
+
+}
+.image3{
+    background-color: gray;
+    width: 150px;
+    height: 130px;
+    margin-top: 200px; 
+
+}
+.footer{
+    background-color: aqua;
+    color: white;
+    width: 750px;
+    text-align: center; 
+}
+.bodysi{
+    background-color: pink;
+    width: 760px;
+}
